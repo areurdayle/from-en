@@ -20,7 +20,7 @@ Ifẹ̀ ọkàn wá láti se dáradára - darapọ pẹ̀lú ìwà rere tí a gb
 
 Ìlànà tí ìgbọràn sì ìtàn ayé àtijọ́ jẹ pàtàkì asiwere. Tí àlùfáà bá wí fún mi pé mo gbọdọ gbọ́ràn sì "Olódùmarè", eléyìí jẹ́ nkankan náà wípé àlùfáà sọ pe ki n gbọ́ràn sì nkan ti a n pe ni "nogi". Tí Mo wà gbagbọ pé nkan yìí ó yẹ fún ìgbọràn ayérayé, eléyìí kò wípé kí n gbọ́ràn sì "àlùfáà" lẹ́nu. Tí mò bá sọ fún ọ pé "gbọ́ràn sì ọkàn rẹ," se mo lè wá wípé :"àti *èmi nìkan * sọ fún ọkàn rẹ"?
 
-Dájúdájú bẹ́ẹ̀ kò
+Dájúdájú bẹ́ẹ̀ kò.
 
 Nígbà tí a bá yọ ìtàn ayé àtijọ́ àti ìtàn ayebaye kúrò nínú "ibanisepo" pẹlu awọn olori tàbí àwọn Alakoso wá, ohùn àbájáde ni òtítọ́ tí ó hàn kéré de.
 
@@ -41,3 +41,4 @@ Kosi igbakigba tí òun tán pé ní "ijọba" gbé ọwọ sókè, ṣì ìròy
 Bayi, ọ̀rọ̀ òtítọ́ ni wípé arákùnrin kan fi ìwé kan ranse simi pé mo jẹ òun lowo. Mí ó ní àdéhùn kankan pẹlu arákùnrin yìí, òun na kò dẹ ni pá òun ìní mi, botilejepe àwọn arákùnrin mìíràn kọ̀ àdéhùn rogbodiyan tí ó wí pé ó ní afihun sì.
 
 Tí mí ó wà san owó arákùnrin yí, ó má rán ẹlòmíràn wá sí ilé mi láti wá gba owó náà - pelu "òṣùwọ̀n" àti ìdíyelé.
+
